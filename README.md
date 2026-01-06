@@ -1,10 +1,4 @@
-# GenAI-Data-Quality-Doctor
 
-Got it 👍
-I’ll give you a **complete README** that sounds **human, practical, and written by you**, not like generic AI boilerplate.
-It’s clear, honest, and interview-friendly.
-
-You can **copy-paste this directly into `README.md`**.
 
 ---
 
