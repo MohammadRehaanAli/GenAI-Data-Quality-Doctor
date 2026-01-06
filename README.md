@@ -145,4 +145,4 @@ This project reflects how I think about data problems in practice — **clean da
 It combines data analysis, automation, and GenAI in a way that mirrors real-world analytics workflows rather than isolated scripts.
 
 
-Just tell me 👍
+
